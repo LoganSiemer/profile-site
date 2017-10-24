@@ -1,3 +1,2 @@
 # profile-site
-Hello World
 
